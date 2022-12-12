@@ -1,0 +1,20 @@
+{
+  "name": "nodejs2022q4",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u1f5a4/NODEJS2022Q4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u1f5a4/NODEJS2022Q4/issues"
+  },
+  "homepage": "https://github.com/u1f5a4/NODEJS2022Q4#readme"
+}
